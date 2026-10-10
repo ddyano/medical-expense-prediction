@@ -244,6 +244,7 @@ medical-expense-prediction/
 
 - GitHub Repository: https://github.com/ddyano/medical-expense-prediction
 - Live Streamlit App: https://medical-expense-prediction-3zrj2xwwsugjq2cvartbxy.streamlit.app/
+- PPT link- https://1drv.ms/p/c/865ff944af00d796/IQD-z_P1XJ_dSIxQy7a283YfARP9-4zGhFdNih6ByuSV5-E?e=xR3mBf
 
 ## Technologies Used
 
